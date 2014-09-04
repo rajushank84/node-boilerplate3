@@ -1,4 +1,13 @@
-node-boilerplate3
-=================
 
-Basic template for a simple node application
+Steps
+=====
+
+- Clone the app, cd into the folder where the apps files were cloned
+
+- Install dependencies by running this command: npm install . --registry http://registry.npmjs.org/
+
+- Compile dust templates by running this command: ./compile
+
+- Start the server by running this command: node .
+
+- Go to localhost:3000 using a browser
